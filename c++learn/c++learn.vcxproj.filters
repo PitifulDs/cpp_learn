@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="c++learn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63 重载new&amp;delete运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02 sizeof关键字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="new 01 C语言风格字符串 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43 引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03 常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 布尔类型bool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 递增 递减.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10 选择结构案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11 三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12 猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13 goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14 二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16 函数的常见样式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15 函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17 函数声明.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18 函数的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19 指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20 指针所占空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21 空指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22 野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23 const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24 指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26 指针 数组 函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25 指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27 结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28 结构体数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29 结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30 结构体嵌套结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31 结构体做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33 结构体案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32 结构体中const使用场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35 内存分区模型 程序运行前.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36 内存分区模型 程序运行后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34 结构体案例2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37 new运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39 引用的注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38 引用的基本使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40 引用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41 引用左函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42 常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44 函数高级-函数的默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45 函数占位参数源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46 函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47 封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49 struct和class区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48 访问权限.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62 运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61 const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60 空指针访问函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59 this指针概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58 成员变量和成员函数分开存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57 初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56 深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55 构造函数调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54 拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53 函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52 构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51 设计案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50 成员属性私有化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64 内存池.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65 继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66 多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67 函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68 函数模板的具体化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69 函数模板高级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71 模板类-栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72 模板类 数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73 嵌套和递归使用模板类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74 模板类具体化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75 类模板-模板类与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76 类模板-模板类与函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77 模板类的成员模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78 模板类用作参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79 string容器基础.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80 string容器的设计目标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="81 vector容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="82 vector嵌套.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="83 迭代器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="84 list容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="85 map容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86 umap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="87 for_each.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88 智能指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="89 创建线程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="90 this_thread的全局函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91 call_once函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92 互斥锁.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93 条件变量-生产\消费者模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_share_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表_C++.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表_C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94 function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="95 bind.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_unique_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_weak_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_share_weak_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70 模板类的基本概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringstream学习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\分配土地.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\找朋友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\特殊的加密算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\API集群负载统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\密码解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\石头剪刀布游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\数的分解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\转盘寿司.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\贪吃的猴子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\滑动窗口最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\查找众数及中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\5键键盘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\螺旋数字矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\执行任务赚积分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\考古学家.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\攀登者1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\攀登者2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\堆内存申请.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\连续自然数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\找数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\测试用例执行计划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\数组连续和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\贪心歌手.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\智能成绩表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\生成哈夫曼树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\电脑病毒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\ABR 车路协同场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最长子字符串的长度%28一%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最长子字符串的长度%28二%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\小朋友来自多少分区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\分割均衡字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\CPU算力分配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最富裕的小家庭.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\虚拟理财游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\传递悄悄话.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\求最多可以派出多少支团队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\提取字符串中的最长合法简单数学表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\精准核酸检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\执行时长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\wonderland.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\小华最多能得到多少克黄金、小华地图寻宝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最多购买宝石数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\火星文计算2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\火星文计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\计算面积、绘图机器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\万能字符单词拼写、掌握的单词个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\来自异国的客人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\查找接口成功率最优时间段.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\手机App防沉迷系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\机场航班调度程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\机器人仓库搬砖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\英文输入法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\剩余银饰的重量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\找座位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\开源项目热榜、开源项目热度榜单.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\内存冷热标记.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\游戏分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\围棋的气.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\小明找位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\计算三叉搜索树的高度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最大坐标值、小明的幸运数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\分披萨.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\会议室占用时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\灰度图存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\数组去重和排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\求字符串中所有整数的最小和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\求满足条件的最长子串的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\字符串分割二.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\字符串筛选排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\连续字母长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\拼接URL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\字符串序列判定.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\最长的指定瑕疵度的元音子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\考勤信息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华为机试\字符串变换最小字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机试\1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机试\2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机试\3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="深拷贝与浅拷贝.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

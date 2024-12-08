@@ -1,0 +1,29 @@
+# Visual Studio files
+.vs/
+*.ipch
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ilk
+*.log
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.pyc
+*.pyo
+*.class
+*.DS_Store
+
+# Build output
+x64/
+Debug/
+Release/
+
+# 忽略 .ipch 文件
+*.ipch
+
+# 忽略 .pdb 文件
+*.pdb
