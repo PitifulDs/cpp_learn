@@ -27,3 +27,5 @@ Release/
 
 # 忽略 .pdb 文件
 *.pdb
+
+/x64/
